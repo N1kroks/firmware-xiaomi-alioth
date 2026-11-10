@@ -1,0 +1,1 @@
+mcfg_hw/generic/common/SDX55/FUSION/LA/DSDS/mcfg_hw.mbn
